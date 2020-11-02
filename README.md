@@ -1,0 +1,2 @@
+# StudyPlatzi
+Git and Github
